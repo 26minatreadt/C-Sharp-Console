@@ -18,6 +18,7 @@ class Program
         //Loops.ForLoops(); //Starts at For loops then Even loops then Uneven loops
         //Loops.EvenLoops(); //even loops then Uneven loops
         //Loops.UnEvenLoops(); //just uneven loop
-        Loops.HealthLoop();
+        //Loops.HealthLoop();
+        Arrays.Array1(args);
     }
 }

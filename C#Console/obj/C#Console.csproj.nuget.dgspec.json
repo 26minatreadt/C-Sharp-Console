@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\C#Console\\C-console\\C#Console.csproj": {}
+    "H:\\C#Console\\C-console\\C#Console\\C#Console.csproj": {}
   },
   "projects": {
-    "H:\\C#Console\\C-console\\C#Console.csproj": {
+    "H:\\C#Console\\C-console\\C#Console\\C#Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\C#Console\\C-console\\C#Console.csproj",
+        "projectUniqueName": "H:\\C#Console\\C-console\\C#Console\\C#Console.csproj",
         "projectName": "C#Console",
-        "projectPath": "H:\\C#Console\\C-console\\C#Console.csproj",
+        "projectPath": "H:\\C#Console\\C-console\\C#Console\\C#Console.csproj",
         "packagesPath": "C:\\Users\\26minatreadt\\.nuget\\packages\\",
-        "outputPath": "H:\\C#Console\\C-console\\obj\\",
+        "outputPath": "H:\\C#Console\\C-console\\C#Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\26minatreadt\\AppData\\Roaming\\NuGet\\NuGet.Config"

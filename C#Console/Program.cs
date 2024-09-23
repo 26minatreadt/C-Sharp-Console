@@ -19,6 +19,8 @@ class Program
         //Loops.EvenLoops(); //even loops then Uneven loops
         //Loops.UnEvenLoops(); //just uneven loop
         //Loops.HealthLoop();
-        Arrays.Array1(args);
+        //Arrays.Array1(args);
+        //Dictionary.Dict1(args);
+        Dictionary.Dict2(args);
     }
 }

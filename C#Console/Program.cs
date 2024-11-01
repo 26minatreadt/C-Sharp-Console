@@ -1,7 +1,17 @@
-﻿namespace C_console;
+﻿using MyCalculatorApp;
+
+namespace C_console;
 
 class Program
 {
+
+    static void Mycal()
+    {
+        Calculator calculator= new Calculator();
+        Console.WriteLine("Add(int, int): " + calculator.Add(3,4));
+        Console.WriteLine("Add(int, int, int): " + calculator.Add(3,4,12));
+        Console.WriteLine("Add(double, double): " + calculator.Add(3.7, 5.9));
+    }
     static void Main(string[] args)
     {
         //where we call our methods from seperate classes
@@ -21,6 +31,6 @@ class Program
         //Loops.HealthLoop();
         //Arrays.Array1(args);
         //Dictionary.Dict1(args);
-        Dictionary.Dict2(args);
+        //Dictionary.Dict2(args);
     }
 }
